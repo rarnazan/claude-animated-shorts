@@ -1,0 +1,6 @@
+anthropic>=2.8
+pydantic>=2
+gTTS
+numpy
+Pillow
+requests
